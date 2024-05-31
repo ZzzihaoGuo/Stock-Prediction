@@ -10,7 +10,7 @@ traditional transformer structure
 rnn framework model
 
 # Data
-_sorry we can not provide any data, because the data we use have private factors_
+_sorry we cannot provide any data, because the data we use have private factors_
 
 # Training Framework
 Leveraging Distributed Data Parallel (DDP) Architecture for Model Training
