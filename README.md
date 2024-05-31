@@ -3,6 +3,7 @@ I make a stock prediction framework which employs different deep learning method
 
 # Algorithms
 There are already four algorithms in this framwork (Vanilla, iTransformer, deeplob, GRUModel), you can use different algorithms in configs/config.py
+
 _Sorry, due to confidentiality constraints, I am unable to provide the most efficacious algorithm._
 ## Vanilla
 traditional transformer structure
