@@ -31,8 +31,8 @@ class Args:
         parser.add_argument('--batch_size', default=2048, type=int)
 
         # other args
-        parser.add_argument('--log_name', type=str, default='Vanilla,iTransformer', help='names of prediction logs')
-        parser.add_argument('--model_names', type=str, default='Vanilla', help='names of AI models (Vanilla, iTransformer)')
+        parser.add_argument('--log_name', type=str, default='Vanilla', help='names of prediction logs')
+        parser.add_argument('--model_names', type=str, default='Vanilla', help='names of AI models (Vanilla, iTransformer, deeplob, GRUModel)')
         parser.add_argument('--train_ratio', type=int, default=0.8, help='ratio of separating train and validation')
         parser.add_argument('--num_files', type=int, default=10, help='number of files')
         parser.add_argument('--start_index',type=int, default=3, help='index of the start file')
