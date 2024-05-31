@@ -7,10 +7,10 @@ There are already four algorithms in this framwork (Vanilla, iTransformer, deepl
 traditional transformer structure
 
 ## GRU
-rnn framework model
+GRU framework model
 
 # Data
-_sorry we cannot provide any data, because the data we use have private factors_
+_Sorry we cannot provide any data, because the data we use have private factors_
 
 # Training Framework
 Leveraging Distributed Data Parallel (DDP) Architecture for Model Training
