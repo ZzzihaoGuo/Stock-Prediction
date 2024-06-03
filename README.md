@@ -1,5 +1,5 @@
 # Stock Prediction Framework 
-I make a stock prediction framework which employs different deep learning methods to predict the rise and fall of stocks.
+This framework is built upon multi-GPU DDP (Distributed Data Parallel), utilizing minute-level factors to predict stock price movements.
 
 # Algorithms
 There are already four algorithms in this framwork (Vanilla, iTransformer, deeplob, GRUModel), you can use different algorithms in configs/config.py
