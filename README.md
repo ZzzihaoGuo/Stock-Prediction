@@ -14,5 +14,7 @@ GRU framework model
 ## Data
 _Sorry we cannot provide any data, because the data we use have private factors_
 
+We utilize minute-level stock data, employing various factors as features, to predict the rise and fall of stock prices.
+
 ## Training Framework
 Leveraging Distributed Data Parallel (DDP) Architecture for Model Training
